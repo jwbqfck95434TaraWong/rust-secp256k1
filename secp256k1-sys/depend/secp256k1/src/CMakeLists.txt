@@ -174,3 +174,5 @@ if(SECP256K1_INSTALL)
     DESTINATION ${CMAKE_INSTALL_LIBDIR}/pkgconfig
   )
 endif()
+
+# Update: 2025-10-12
